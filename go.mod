@@ -1,6 +1,6 @@
 module github.com/savasayik/gologger
 
-go 1.18
+go 1.21
 
 require github.com/rs/zerolog v1.34.0
 
